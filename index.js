@@ -91,7 +91,6 @@ const lvlOne = [
   "sob",
   "sec",
   "shy",
-  "sex",
   "sly",
   "tan",
   "the",
